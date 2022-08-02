@@ -8,6 +8,8 @@ Series = {"AOT": "'Attack on Titan' (Shingeki no Kyojin) is a popular Japanese a
                   "their childhood friend Armin Arlelt.",
           "Manga": "The manga series 'Attack on Titan', from which the anime adaptation is based on, is written and\n"
                    "illustrated by Hajime Isayama that was first published in September 9, 2009.",
+          "Isayama": "Hajime Isayama is a manga artist who wrote and illustrated the manga series 'Attack on Titan', which\n"
+                     "was later adapted into the popular anime series of the same name.",
           "Season 1": "There are 25 episodes in season 1 (2013) of the series.",
           "Season 2": "There are 12 episodes in season 2 (2017) of the series.",
           "Season 3": "There are 22 episodes in season 3 of the series, with 12 episodes in part 1 (2018) of the season\n"
@@ -103,7 +105,7 @@ Titans = {"Titan": "Titans are a race of giant human-eating humanoid creatures w
           "War Hammer": "The War Hammer Titan is one of the Nine Titans with the ability to create any structure out\n"
                         "of hardened Titan flesh."}
 
-Organizations = {"Military": "The military on Paradis island is an armed force that is divided into three branches: "
+Organizations = {"Military": "The military on Paradis Island is an armed force that is divided into three branches: "
                              "the Survey Corps, Military Police Brigade, and Garrison.",
                  "Survey Corps": "The Survey Corps is a branch of the military tasked with frequent and direct Titan\n"
                                  "combat, Titan study, human expansion, and outside exploration. Members of the Survey\n"
@@ -126,7 +128,7 @@ Locations = {"Walls": "The Walls are three giant structures located and built on
              "Wall Sina": "Wall Sina is the innermost wall of three giant structures located and built on Paradis\n"
                            "Island to guard the people on the island from the outside world.",
              "Paradis": "Paradis Island is a island where the three Walls are located. Eldians, an ethnic group of\n"
-                        "people capable of turning into Titans, compose the majority of the demographics of the island",
+                        "people capable of turning into Titans, compose the majority of the demographics of the island.",
              "Marley": "Marley is a nation located outside the Walls and across the ocean from Paradis Island."}
 
 Objects = {"ODM gear": "The omni-directional mobility gear is a piece of equipment developed specifically to enhance\n"

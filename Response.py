@@ -21,6 +21,8 @@ def get_series(keywords):
     elif ("episodes" in keywords and "season" in keywords and "4" in keywords) or \
             ("episodes" in keywords and "season" in keywords and "four" in keywords):
         return aot.Series["Season 4"]
+    elif "who" in keywords and (("hajime" in keywords) or ("isayama" in keywords)):
+        return aot.Series["Isayama"]
 
     return "Sorry, I didn't understand what you meant. Either your inquiry is not related the anime or is not\n" \
            "yet in my database! Try asking me something else about the series!\n" \

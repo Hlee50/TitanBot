@@ -38,8 +38,6 @@ def chat():
             tokens = kw.tokenize(user_input)
             key = kw.find_keywords(tokens)
 
-            # print(key)
-
             if key[0] == "series":
                 loading()
                 print("TitanBot: ", end='')

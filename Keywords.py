@@ -1,7 +1,7 @@
 import re
 
-series = ["what", "how", "many", "when", "season", "episodes", "1", "one", "2", "two", "3", "three", "4", "four",
-          "current", "final", "air", "manga", "published", "aot", "on", "plot", "synopsis"]
+series = ["what", "who", "how", "many", "when", "season", "episodes", "1", "one", "2", "two", "3", "three", "4", "four",
+          "current", "final", "air", "manga", "published", "aot", "on", "plot", "synopsis", "hajime", "isayama"]
 characters = ["who", "eren", "mikasa", "armin", "levi", "erwin", "hange", "jean", "conny", "sasha", "historia", "ymir",
               "reiner", "bertholdt", "annie", "zeke"]
 titans = ["who", "what", "nine", "titan", "titans", "founding", "attack", "colossal", "armored", "female", "beast",
@@ -45,8 +45,6 @@ def find_keywords(tokens):
                 categories['location'] > 1 or categories['object'] > 1 or categories['bot'] > 1:
             categories['series'] -= 1
         keywords += ["attack", "titan"]
-
-    # print(categories)
 
     category = sorted(categories.items(), key=lambda item: item[1], reverse=True)[0][0]
 
