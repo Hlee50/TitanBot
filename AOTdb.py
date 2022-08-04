@@ -1,6 +1,6 @@
 Series = {"AOT": "'Attack on Titan' (Shingeki no Kyojin) is a popular Japanese anime adaptation of the manga series of\n"
                  "the same name by Hajime Isayama that first aired on April 7, 2013.",
-          "Plot": "'Attack on Titan' is set in a world where humanity lives inside of giant Walls that protect them\n"
+          "Plot": "'Attack on Titan' is set in a world where humanity lives inside of giant walls that protect them\n"
                   "from giant human-eating humanoids known as Titans. The story follows Eren Jaeger after a titan\n"
                   "known as the Colossal Titan caused the destruction of his hometown and the death of his mother.\n"
                   "Eren, who vows to destroy every single Titan in the world, joins the Survey Corps, a group of\n"
@@ -131,7 +131,7 @@ Locations = {"Walls": "The Walls are three giant structures located and built on
                         "people capable of turning into Titans, compose the majority of the demographics of the island.",
              "Marley": "Marley is a nation located outside the Walls and across the ocean from Paradis Island."}
 
-Objects = {"ODM gear": "The omni-directional mobility gear is a piece of equipment developed specifically to enhance\n"
+Objects = {"ODM gear": "The omni-directional mobility gear (ODM) is a piece of equipment developed specifically to enhance\n"
                        "mobility when fighting Titans in close combat. The gear itself is worn as a body harness and\n"
                        "includes tools such as:\n"
                        "• Hand Grips\n"
